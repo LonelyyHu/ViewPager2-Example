@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager2Example</string>
+    <string name="title_activity_simple">SimplePagerActivity</string>
+    <string name="title_activity_simple2">SimplePagerActivity 2</string>
+    <string name="title_activity_stateful">StatefulPagerActivity</string>
+    <string name="title_activity_stateful2">StatefulPagerActivity 2</string>
+
+    <string name="increase">increase</string>
+</resources>
